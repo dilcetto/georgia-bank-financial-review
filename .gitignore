@@ -1,0 +1,9 @@
+# macOS metadata
+.DS_Store
+
+# Temporary Microsoft Office files
+~$*
+*.tmp
+
+# Downloaded third-party source PDFs (keep output/Financial_Review_2025.pdf)
+/sources/**/*.pdf
